@@ -2,9 +2,9 @@ import time
 
 import pytest
 
-from pages.Login_page import LoginPage
-from tests.utilities.logger import get_logger
-from tests.utilities.excel_utils import get_excel_data
+from Others.pages.Login_page import LoginPage
+from Others.tests.utilities.logger import get_logger
+from Others.tests.utilities.excel_utils import get_excel_data
 
 logger=get_logger()
 test_data=get_excel_data("/testdata/login_data.xlsx", sheet_name="login_data")

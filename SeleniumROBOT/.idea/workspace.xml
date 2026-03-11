@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9420f05-23ea-4cdf-9d43-615bfb79ddc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../New folder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/.idea/Selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMAutomation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMAutomation/.idea/OrangeHRMAutomation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMAutomation/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMAutomation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMAutomation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRMAutomation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/Selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPytestPOM/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/pages/cart_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/pages/checkout_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/pages/inventory_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/testdata/testdata.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/execution.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/reports/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_140046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_140558.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_140559.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_140703.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141201.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141356.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141414.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141517.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141535.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141645.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_141703.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142324.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142355.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142528.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_142529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_182918.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/screenshots/failure_20260225_182934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/tests/test_purchase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/utils/excel_reader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/utils/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/SauceDemoPOM/utils/screenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/Saucedemo/greenkart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/Saucedemo/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/Saucedemo/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/Saucedemo/reports/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/Saucedemo/saucedemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/config/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/data/testdata.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/logs/automation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/pages/account_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/pages/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/pages/customer_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/pages/manager_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/logs/automation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_110407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_112849.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_121010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_121251.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_121638.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_121733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122135.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122336.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122549.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122907.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_122939.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123422.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123539.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123706.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123729.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_123913.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_customer_transaction_flow_20260226_124313.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_110157.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_112908.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_114443.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_114536.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_115424.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_115529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/screenshots/test_manager_add_customer_and_open_account_20260226_120451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/test_customer_flow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/tests/test_manager_flow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/utils/excel_reader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/utils/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/XYZBank/utils/screenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/pages/Login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/reports/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_120147.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_124443.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_124712.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_124737.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_124801.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_124851.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_130255.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/logs/test_log_20260225_130256.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/reports/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/screenshots/test_invalid_login_20260225_114231.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/screenshots/test_valid_login_20260225_114208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testcasespytest/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testdata/login_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/testdata/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/reports/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/Login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/Loginpractice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/actions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/alerts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/calendars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/dragdrop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/dropdown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/dropdownmultiselect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/keyboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/keyboardviewpw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/links.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/multiselectcheckbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/multiselectpractice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/navigation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/orangehrmmultiselect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/radiobuttons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/reports/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/scroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/upload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/waits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/webtable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/testsuite/windows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/utilities/excel_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPytestPOM/tests/utilities/logger.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="163" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aayushsinha62&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aayushsinha62/Wipro-PythonSelenium&quot;,
+    &quot;accountId&quot;: &quot;6bfb2424-94df-46cf-8506-894270069602&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39pNRMkLLY1LqlpimEt1ToE59V7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT01\PycharmProjects\Selenium\OrangeHRM\tests" />
+      <recent name="C:\Users\KIIT01\PycharmProjects\Selenium\LabSession\day13" />
+      <recent name="C:\Users\KIIT01\PycharmProjects\Selenium\LabSession\day12" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9420f05-23ea-4cdf-9d43-615bfb79ddc2" name="Changes" comment="" />
+      <created>1771389043555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771389043555</updated>
+    </task>
+    <servers />
+  </component>
+</project>
